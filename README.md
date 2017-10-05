@@ -10,3 +10,4 @@ period 5 lunch
 period 6 service
 period 7 Ap bio
 period 8 lab/study hall
+period 9 varsity gym
